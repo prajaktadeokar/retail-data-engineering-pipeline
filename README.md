@@ -6,12 +6,12 @@ Source → Data Lake → Spark → Warehouse → Dashboard
 
 ## Tech Stack
 
-Python
-PySpark
-Airflow
-Azure Data Lake
-Azure Databricks
-Azure Synapse
+Python ->
+PySpark ->
+Airflow ->
+Azure Data Lake ->
+Azure Databricks ->
+Azure Synapse ->
 Power BI
 
 ## Pipeline Steps
